@@ -1,0 +1,166 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'ru' Physical Memory: 16118 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/arsen/Downloads/Неделя_2 - ARProject/ARProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60424
+Successfully changed project path to: C:/Users/arsen/Downloads/Неделя_2 - ARProject/ARProject
+C:/Users/arsen/Downloads/Неделя_2 - ARProject/ARProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 156.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/arsen/Downloads/Неделя_2 - ARProject/ARProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8059 MB
+    Driver:   30.0.101.1338
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002534 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 194.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.492 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1493ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1246ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (313ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (496ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (195ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007500 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\arsen\Downloads\Неделя_2 - ARProject\ARProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\arsen\Downloads\Неделя_2 - ARProject\ARProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.497 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3499ms)
+		BeginReloadAssembly (623ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (2726ms)
+			LoadAssemblies (315ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1042ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (114ms)
+			SetupLoadedEditorAssemblies (923ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (296ms)
+				ProcessInitializeOnLoadAttributes (565ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3473 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3904.
+Total: 2.757200 ms (FindLiveObjects: 0.225100 ms CreateObjectMapping: 0.108000 ms MarkObjects: 2.342300 ms  DeleteObjects: 0.080800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/AR Default Plane.prefab
+  artifactKey: Guid(74e208d985fc8b645a5f5828d0ccb3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Default Plane.prefab using Guid(74e208d985fc8b645a5f5828d0ccb3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36cf02f8e2c700576b269fcf556af14') in 0.156898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Wolf.fbx
+  artifactKey: Guid(926d28eed53098b44a5a3330c8b2073e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wolf.fbx using Guid(926d28eed53098b44a5a3330c8b2073e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8da72dd5c1313e2a50a3b027f97f94') in 0.458615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/AR Default Point Cloud.prefab
+  artifactKey: Guid(728dc037c658da849922a3d546c8c16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Default Point Cloud.prefab using Guid(728dc037c658da849922a3d546c8c16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f9c41cf8dba94b6622cc943b20ada1') in 0.045508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.874112 seconds.
+  path: Assets/VIsual Object
+  artifactKey: Guid(d725cecc7c49ccf40a41265bbe1c7b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIsual Object using Guid(d725cecc7c49ccf40a41265bbe1c7b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f14f091a19e66ee549f3e6f947bfcd7') in 0.011086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.435607 seconds.
+  path: Assets/VIsual Object/Animations
+  artifactKey: Guid(e7e785a5d7686b54499f86d8c0f6d077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIsual Object/Animations using Guid(e7e785a5d7686b54499f86d8c0f6d077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df05850d2dd0c0d2be3f042e9c6083fc') in 0.015459 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
